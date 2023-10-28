@@ -1,0 +1,27 @@
+{
+  "name": "swift-touch",
+  "version": "0.0.2",
+  "description": "SwiftTouch.js is a JavaScript library designed to swiftly and accurately track touch gestures on your webpage. It offers seamless and responsive touch motion tracking, making it ideal for creating smooth and intuitive user experiences.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "SwiftTouch.js"
+  },
+  "keywords": [
+    "touch",
+    "gesture",
+    "motion",
+    "tracking",
+    "swipe",
+    "touch-tracking",
+    "touch-gestures",
+    "touch-library",
+    "user-interface",
+    "interaction"
+  ],
+  "author": "mostafa-nematpour",
+  "license": "MIT"
+}
