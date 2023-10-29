@@ -8,7 +8,7 @@ Please note that SwiftTouch.js is currently under development and is not ready f
 
 ## Installation
 
-To install SwiftTouch.js, you can use npm or yarn:
+To install SwiftTouch.js, you can use npm:
 
 ```bash
 npm install swift-touch --save
